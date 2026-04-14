@@ -28,7 +28,7 @@
 I'm a passionate **Flutter & Full-Stack Developer** and **Blockchain Builder** dedicated to building clean, performant, and user-centric digital experiences. I believe in the power of minimal design and well-crafted code to communicate ideas effectively.
 
 - 🧠 I embrace the philosophy of **vibe coding**—where technical precision meets creative intuition.
-- 🛠️ 2+ years of experience across mobile and web platforms.
+- 🛠️ 1+ years of experience across mobile and web platforms.
 - ✍️ I write about tech at [durgavaraprasad.hashnode.dev](https://durgavaraprasad.hashnode.dev/).
 
 ---
