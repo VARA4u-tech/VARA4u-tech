@@ -96,7 +96,7 @@ I'm a passionate **Flutter & Full-Stack Developer** and **Blockchain Builder** d
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/durgavaraprasad/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/durga-vara-prasad-pappuri-1797701b6/)
 - 📝 [Hashnode Blog](https://durgavaraprasad.hashnode.dev/)
 - 📧 [Email](mailto:durgavaraprasad2003@gmail.com)
 - 🕸️ [Portfolio](https://vara-portfolio.vercel.app)
