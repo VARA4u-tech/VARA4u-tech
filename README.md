@@ -30,6 +30,15 @@ I'm a passionate **Flutter & Full-Stack Developer** and **Blockchain Builder** d
 - 🧠 I embrace the philosophy of **vibe coding**—where technical precision meets creative intuition.
 - 🛠️ 1+ years of experience across mobile and web platforms.
 - ✍️ I write about tech at [durgavaraprasad.hashnode.dev](https://durgavaraprasad.hashnode.dev/).
+<!-- GitHub Stats Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VARA4u-tech&show_icons=true&theme=react&rank_icon=github&hide_border=false" alt="Vara's GitHub Stats" />
+</p>
+
+<!-- Top Languages Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARA4u-tech&layout=compact&theme=react&hide_border=false" alt="Vara's Most Used Languages" />
+</p>
 
 ---
 
