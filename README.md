@@ -69,31 +69,6 @@ I'm a passionate **Flutter & Full-Stack Developer** and **Blockchain Builder** d
 | **Web3 & AI** | Aptos, Move Lang, AI Integration, Prompt Engineering, Smart Contracts |
 | **Tools** | Git, GitHub, Figma, Vercel, Postman, Linux CLI |
 
----
-
-### 🌟 Featured Projects
-
-#### 🤖 [LOGICIA](https://logicia-your-ai-logic-brain.vercel.app)
-> Your AI Logic Brain. An intelligent tutor for competitive exams (UPSC, SSC, Banking) featuring step-by-step logic and exam shortcuts.
-- **Tech**: React, Vite, TS, FastAPI, Python, MongoDB, AI.
-
-#### 👗 [Lakshmi Fashion Designers](https://lakshmi-fashion-designers-e-commerc.vercel.app/)
-> Premium e-commerce portal for modern tailoring, featuring bilingual support and AI-powered product collections.
-- **Tech**: React, TS, Tailwind, Node.js, Express, Supabase, Python.
-
-#### 🛡️ [SafeTrip Pro](https://safe-trip-smart-driving-safety-appl.vercel.app)
-> AI-powered safety navigation featuring drowsiness detection and real-time emergency alerts.
-- **Tech**: React, TS, Tailwind, Supabase, Framer Motion.
-
-#### 🎓 [Academy of Tech Masters (AOTMS)](https://aotms.in)
-> Tech education platform with AI assistance and interactive student management.
-- **Tech**: React, TS, Tailwind, Vite, Zustand.
-
-#### 🎙️ [AI Voice Editor](https://ai-voice-editor-4rpa.vercel.app)
-> AI-driven document and PDF editor that uses real-time voice commands to edit and reshape text efficiently.
-- **Tech**: React, TypeScript, Tailwind, AI Speech Recognition, Supabase.
-- **Key Feature**: Hands-free document editing with high accuracy.
-
 
 ---
 
