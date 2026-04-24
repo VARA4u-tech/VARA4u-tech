@@ -74,10 +74,8 @@ I'm a passionate **Flutter & Full-Stack Developer** and **Blockchain Builder** d
 
 ### 📈 Activity Pulse
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VARA4u-tech&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=VARA4u-tech&theme=github-dark-blue" />
 </p>
-
----
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/durga-vara-prasad-pappuri-1797701b6/)
