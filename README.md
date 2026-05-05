@@ -31,13 +31,13 @@ I'm a passionate **Flutter & Full-Stack Developer** and **Blockchain Builder** d
 - 🛠️ 1+ years of experience across mobile and web platforms.
 - ✍️ I write about tech at [durgavaraprasad.hashnode.dev](https://durgavaraprasad.hashnode.dev/).
 ---
- ### 📈 Activity Pulse
+ ### 📈 Activity Pulse & Contribution Arcade
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=VARA4u-tech&theme=github-dark-blue" />
 </p>
 
-### 🎯 Contribution Arcade
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/VARA4u-tech/VARA4u-tech/output/pacman-contribution-graph-dark.svg" alt="Pacman Animation" />
