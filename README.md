@@ -74,15 +74,45 @@ link 🔗 www.aotms.in
 
 ### 🛠️ Technical Arsenal
 
-| Category | Skills |
-| :--- | :--- |
-| **Frontend** | React, TypeScript, JavaScript, Tailwind CSS, Zustand, Framer Motion, Shadcn UI |
-| **Mobile** | Flutter, Dart, Riverpod, Material Design, Mobile UI/UX |
-| **Backend** | Node.js, Firebase, Supabase, MongoDB, PostgreSQL, REST APIs |
-| **Web3 & AI** | Aptos, Move Lang, AI Integration, Prompt Engineering, Smart Contracts |
-| **Tools** | Git, GitHub, Figma, Vercel, Postman, Linux CLI |
 
 
+### **Frontend Technologies**
+- **TypeScript** (dominant) - Used across majority of projects
+- **React** - Core framework for most web applications
+- **Vite** - Build tool and bundler
+- **Dart** - Flutter development
+
+### **Backend & Runtime**
+- **Node.js** - Server-side JavaScript runtime
+- **PHP** - Legacy/alternative backend option
+
+### **Databases & Data**
+- **MongoDB** - NoSQL database for scalable applications
+
+### **Specialized Technologies**
+- **Flutter** - Cross-platform mobile development (SmartQuack)
+- **Aptos** - Blockchain/Web3 integration (aptos-voting-dapp)
+- **AI/ML Integration** - Multiple projects leveraging:
+  - Large Language Models (Gemma 2 27B, etc.)
+  - Voice recognition and processing
+  - AI-powered features (document editing, email assistance, educational prediction)
+
+### **Project Categories** 📊
+Your arsenal spans:
+1. **Learning Management Systems (LMS)** - AOTMS, Vidyalaya, EduPredict
+2. **AI-Powered Applications** - LOGICIA, MailMind AI, AI-Voice-Editor
+3. **E-Commerce Platforms** - Bhojanalaya, Elara Cosmetics, Lakshmi Fashion
+4. **Productivity Tools** - SmartQuack, Meeting Summarizer, Task Manager
+5. **Portfolio & Web Design** - Your portfolio, TrueVex Technologies
+6. **Blockchain/Web3** - Aptos voting dApp
+7. **Mobile Apps** - Flutter-based applications
+
+### **Core Strengths**
+✅ Full-stack web development  
+✅ AI/ML integration expertise  
+✅ Modern UI/UX design (Brutalist, Cyber-Premium aesthetics)  
+✅ Scalable application architecture  
+✅ Multi-language support  
 ---
 
 
