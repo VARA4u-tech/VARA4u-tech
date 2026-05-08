@@ -23,21 +23,21 @@
 </p>
 
 ---
+<h3 align="left"><span style="color:#00F7FF;">🚀 About Me</span></h3>
 
-### 🚀 About Me
 I'm a passionate **Flutter & Full-Stack Developer** and **Blockchain Builder** dedicated to building clean, performant, and user-centric digital experiences. I believe in the power of minimal design and well-crafted code to communicate ideas effectively.
 
 - 🧠 I embrace the philosophy of **vibe coding**—where technical precision meets creative intuition.
 - 🛠️ 1+ years of experience across mobile and web platforms.
 - ✍️ I write about tech at [durgavaraprasad.hashnode.dev](https://durgavaraprasad.hashnode.dev/).
+
 ---
- ### 📈 Activity Pulse & Contribution Arcade
+
+<h3 align="left"><span style="color:#58A6FF;">📈 Activity Pulse & Contribution Arcade</span></h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=VARA4u-tech&theme=github-dark-blue" />
 </p>
-
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/VARA4u-tech/VARA4u-tech/output/pacman-contribution-graph-dark.svg" alt="Pacman Animation" />
@@ -54,7 +54,7 @@ I'm a passionate **Flutter & Full-Stack Developer** and **Blockchain Builder** d
 
 ---
 
-### 💼 Experience
+<h3 align="left"><span style="color:#7EE787;">💼 Experience</span></h3>
 
 - **MERN Stack Developer (Freelancing Project)** — *Academy of Tech Masters (AOTMS)*
   - [Dec 2025 – Jan 2026]
@@ -63,7 +63,7 @@ link 🔗 www.aotms.in
 
 ---
 
-### 🎓 Education
+<h3 align="left"><span style="color:#F2CC60;">🎓 Education</span></h3>
 
 - **Master of Computer Applications (MCA)** — *JNTU Kakinada* (2024 – 2026 | Pursuing)
   - DVR & Dr. HS MIC College of Technology, Kanchikacherla.
@@ -72,7 +72,7 @@ link 🔗 www.aotms.in
 
 ---
 
-### 🛠️ Technical Arsenal
+<h3 align="left"><span style="color:#FF7B72;">🛠️ Technical Arsenal</span></h3>
 
 | Category | Skills & Technologies |
 |---|---|
@@ -89,7 +89,7 @@ link 🔗 www.aotms.in
 
 ---
 
-## 🚀 Core Expertise
+<h3 align="left"><span style="color:#C678DD;">🚀 Core Expertise</span></h3>
 
 | Domain | Experience |
 |---|---|
@@ -102,10 +102,11 @@ link 🔗 www.aotms.in
 
 ---
 
-## 💡 Professional Highlights
+<h3 align="left"><span style="color:#FFA657;">💡 Professional Highlights</span></h3>
 
 | Achievement | Details |
 |---|---|
+| 🏆 Hackathon Achievement | Won **3rd Prize** in **Innovative Andhra Hackathon 2025** (**Data & AI Track**) for building an **LMS Portal** |
 | 🎓 Education | MCA Student — JNTU Kakinada (2024–2026) |
 | 💼 Professional Role | MERN Stack Developer — Freelance Projects |
 | ✍️ Content Creation | Technical Blogging & Knowledge Sharing |
@@ -114,7 +115,7 @@ link 🔗 www.aotms.in
 
 ---
 
-## 📌 Project Domains
+<h3 align="left"><span style="color:#00D8FF;">📌 Project Domains</span></h3>
 
 | Industry / Domain | Solutions Built |
 |---|---|
@@ -124,10 +125,11 @@ link 🔗 www.aotms.in
 | Productivity | Meeting Summarizers, Task Automation |
 | Blockchain | Voting dApps, Decentralized Solutions |
 | SaaS & Portfolio | Premium Landing Pages, Business Platforms |
+
 ---
 
+<h3 align="left"><span style="color:#79C0FF;">📫 Connect with Me</span></h3>
 
-### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/durga-vara-prasad-pappuri-1797701b6/)
 - 📝 [Hashnode Blog](https://durgavaraprasad.hashnode.dev/)
 - 📧 [Email](mailto:durgavaraprasad2003@gmail.com)
