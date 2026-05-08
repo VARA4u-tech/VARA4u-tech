@@ -74,45 +74,56 @@ link 🔗 www.aotms.in
 
 ### 🛠️ Technical Arsenal
 
+| Category | Skills & Technologies |
+|---|---|
+| Frontend Development | React, TypeScript, JavaScript, Vite, Tailwind CSS, Zustand, Framer Motion, Shadcn UI |
+| Mobile Development | Flutter, Dart, Riverpod, Material Design, Mobile UI/UX |
+| Backend Development | Node.js, PHP, REST APIs, Server Architecture |
+| Databases & Backend Services | MongoDB, Firebase, Supabase, PostgreSQL |
+| Web3 & Blockchain | Aptos, Move Language, Smart Contracts, Decentralized Applications |
+| AI & Machine Learning | Large Language Models, Prompt Engineering, AI Integration, Voice Recognition, Document Intelligence, Predictive Analytics |
+| Cloud & Deployment | Vercel, Firebase Hosting, CI/CD Workflows |
+| Development Tools | Git, GitHub, Postman, Linux CLI, VS Code |
+| Design & Collaboration | Figma, UI/UX Design, Design Systems, Prototyping |
+| Specialized Integrations | Voice-to-Text Processing, Real-Time PDF Analysis, Email Automation, Multi-Language Support, Real-Time Collaboration |
 
+---
 
-### **Frontend Technologies**
-- **TypeScript** (dominant) - Used across majority of projects
-- **React** - Core framework for most web applications
-- **Vite** - Build tool and bundler
-- **Dart** - Flutter development
+## 🚀 Core Expertise
 
-### **Backend & Runtime**
-- **Node.js** - Server-side JavaScript runtime
-- **PHP** - Legacy/alternative backend option
+| Domain | Experience |
+|---|---|
+| Full Stack Development | Building scalable, production-ready web applications |
+| Mobile Engineering | Cross-platform application development |
+| AI Engineering | Intelligent automation, LLM-powered applications |
+| Web3 Development | Smart contracts, decentralized apps |
+| Product Design | Modern UI systems, interactive experiences |
+| System Architecture | Performance-focused, scalable application design |
 
-### **Databases & Data**
-- **MongoDB** - NoSQL database for scalable applications
+---
 
-### **Specialized Technologies**
-- **Flutter** - Cross-platform mobile development (SmartQuack)
-- **Aptos** - Blockchain/Web3 integration (aptos-voting-dapp)
-- **AI/ML Integration** - Multiple projects leveraging:
-  - Large Language Models (Gemma 2 27B, etc.)
-  - Voice recognition and processing
-  - AI-powered features (document editing, email assistance, educational prediction)
+## 💡 Professional Highlights
 
-### **Project Categories** 📊
-Your arsenal spans:
-1. **Learning Management Systems (LMS)** - AOTMS, Vidyalaya, EduPredict
-2. **AI-Powered Applications** - LOGICIA, MailMind AI, AI-Voice-Editor
-3. **E-Commerce Platforms** - Bhojanalaya, Elara Cosmetics, Lakshmi Fashion
-4. **Productivity Tools** - SmartQuack, Meeting Summarizer, Task Manager
-5. **Portfolio & Web Design** - Your portfolio, TrueVex Technologies
-6. **Blockchain/Web3** - Aptos voting dApp
-7. **Mobile Apps** - Flutter-based applications
+| Achievement | Details |
+|---|---|
+| 🎓 Education | MCA Student — JNTU Kakinada (2024–2026) |
+| 💼 Professional Role | MERN Stack Developer — Freelance Projects |
+| ✍️ Content Creation | Technical Blogging & Knowledge Sharing |
+| 🚀 Experience | 1+ Years in Web, Mobile & AI-driven Platforms |
+| 🎯 Development Philosophy | *"Vibe Coding — Technical Precision Meets Creative Intuition"* |
 
-### **Core Strengths**
-✅ Full-stack web development  
-✅ AI/ML integration expertise  
-✅ Modern UI/UX design (Brutalist, Cyber-Premium aesthetics)  
-✅ Scalable application architecture  
-✅ Multi-language support  
+---
+
+## 📌 Project Domains
+
+| Industry / Domain | Solutions Built |
+|---|---|
+| Education Tech | LMS Platforms, Academic Intelligence Systems |
+| Artificial Intelligence | Voice AI, Email AI, Document Intelligence |
+| E-Commerce | Modern Shopping Platforms |
+| Productivity | Meeting Summarizers, Task Automation |
+| Blockchain | Voting dApps, Decentralized Solutions |
+| SaaS & Portfolio | Premium Landing Pages, Business Platforms |
 ---
 
 
