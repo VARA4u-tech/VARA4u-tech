@@ -56,9 +56,10 @@ I'm a passionate **Flutter & Full-Stack Developer** and **Blockchain Builder** d
 
 ### 💼 Experience
 
-- **MERN Stack Developer (Freelance)** — *Academy of Tech Masters (AOTMS)*
+- **MERN Stack Developer (Freelancing Project)** — *Academy of Tech Masters (AOTMS)*
   - [Dec 2025 – Jan 2026]
-  - Successfully delivered real-world client projects focusing on scalability and team collaboration.
+  - Successfully delivered real-world client project for an EDUCATIONAL INSTITUTION focusing on scalability and team collaboration.
+link 🔗 www.aotms.in
 
 ---
 
