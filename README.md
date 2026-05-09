@@ -106,7 +106,7 @@ link 🔗 www.aotms.in
 
 | Achievement | Details |
 |---|---|
-| 🏆 Hackathon Achievement | Won **3rd Prize** in **Innovative Andhra Hackathon 2025** (**Data & AI Track**) for building an **LMS Portal** |
+| 🏆 Hackathon Achievement | Won **3rd Prize** in **Innovative Andhra Hackathon 2025** (**Data & AI Track**) for building an **LMS Portal**- 🔗https://vidyalaya-nine.vercel.app |
 | 🎓 Education | MCA Student — JNTU Kakinada (2024–2026) |
 | 💼 Professional Role | MERN Stack Developer — Freelance Projects |
 | ✍️ Content Creation | Technical Blogging & Knowledge Sharing |
