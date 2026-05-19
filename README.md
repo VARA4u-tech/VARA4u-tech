@@ -39,9 +39,11 @@ I'm a passionate **Flutter & Full-Stack Developer** and **Blockchain Builder** d
   <img src="https://streak-stats.demolab.com?user=VARA4u-tech&theme=github-dark-blue" />
 </p>
 
+<h3 align="left">👾 Contribution Arcade</h3>
+
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/VARA4u-tech/VARA4u-tech/main/output/pacman-contribution-graph-dark.svg"
+    src="https://github.com/VARA4u-tech/VARA4u-tech/blob/output/pacman-contribution-graph-dark.svg?raw=true"
     alt="Pacman Contribution Graph"
   />
 </p>
