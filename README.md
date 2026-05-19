@@ -86,7 +86,6 @@ link 🔗 www.aotms.in
 | Category | Skills & Technologies |
 |---|---|
 | Frontend Development | React, TypeScript, JavaScript, Vite, Tailwind CSS, Zustand, Framer Motion, Shadcn UI |
-
 | Backend Development | Node.js, PHP, REST APIs, Server Architecture |
 | Databases & Backend Services | MongoDB, Firebase, Supabase, PostgreSQL |
 | Web3 & Blockchain | Aptos, Move Language, Smart Contracts, Decentralized Applications |
