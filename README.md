@@ -28,7 +28,7 @@
 I'm a passionate **Flutter & Full-Stack Developer** and **Blockchain Builder** dedicated to building clean, performant, and user-centric digital experiences. I believe in the power of minimal design and well-crafted code to communicate ideas effectively.
 
 - 🧠 I embrace the philosophy of **vibe coding**—where technical precision meets creative intuition.
-- 🛠️ 1+ years of experience across mobile and web platforms.
+- 🛠️ 1+ years of experience across web platforms.
 - ✍️ I write about tech at [durgavaraprasad.hashnode.dev](https://durgavaraprasad.hashnode.dev/).
 
 ---
@@ -94,7 +94,7 @@ link 🔗 www.aotms.in
 | Domain | Experience |
 |---|---|
 | Full Stack Development | Building scalable, production-ready web applications |
-| Mobile Engineering | Cross-platform application development |
+| Saas Services| Cross-platform application development |
 | AI Engineering | Intelligent automation, LLM-powered applications |
 | Web3 Development | Smart contracts, decentralized apps |
 | Product Design | Modern UI systems, interactive experiences |
@@ -110,7 +110,7 @@ link 🔗 www.aotms.in
 | 🎓 Education | MCA Student — JNTU Kakinada (2024–2026) |
 | 💼 Professional Role | MERN Stack Developer — Freelance Projects |
 | ✍️ Content Creation | Technical Blogging & Knowledge Sharing |
-| 🚀 Experience | 1+ Years in Web, Mobile & AI-driven Platforms |
+| 🚀 Experience | 1+ Years in Web & AI-driven Platforms |
 | 🎯 Development Philosophy | *"Vibe Coding — Technical Precision Meets Creative Intuition"* |
 
 ---
