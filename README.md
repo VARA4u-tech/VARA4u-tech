@@ -56,7 +56,7 @@ I'm a passionate **Flutter & Full-Stack Developer** and **Blockchain Builder** d
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARA4u-tech&layout=compact&theme=github_dark&hide_border=true"
-    alt="Vara's Most Used Languages"
+    alt="Top Languages"
   />
 </p>
 
