@@ -40,7 +40,10 @@ I'm a passionate **Flutter & Full-Stack Developer** and **Blockchain Builder** d
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VARA4u-tech/VARA4u-tech/output/pacman-contribution-graph-dark.svg" alt="Pacman Animation" />
+  <img 
+    src="https://raw.githubusercontent.com/VARA4u-tech/VARA4u-tech/main/output/pacman-contribution-graph-dark.svg"
+    alt="Pacman Contribution Graph"
+  />
 </p>
 
 <p align="center">
@@ -49,7 +52,10 @@ I'm a passionate **Flutter & Full-Stack Developer** and **Blockchain Builder** d
 
 <!-- Top Languages Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARA4u-tech&layout=compact&theme=react&hide_border=false" alt="Vara's Most Used Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARA4u-tech&layout=compact&theme=github_dark&hide_border=true"
+    alt="Vara's Most Used Languages"
+  />
 </p>
 
 ---
