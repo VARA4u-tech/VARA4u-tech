@@ -89,7 +89,7 @@ link 🔗 www.aotms.in
 | Web3 & Blockchain | Aptos, Move Language, Smart Contracts, Decentralized Applications |
 | AI & Machine Learning | Large Language Models, Prompt Engineering, AI Integration, Voice Recognition, Document Intelligence, Predictive Analytics |
 | Cloud & Deployment | Vercel, Firebase Hosting, CI/CD Workflows |
-| Development Tools | Git, GitHub, Postman, Linux CLI, VS Code |
+| Development Tools | Git, GitHub, Postman, VS Code |
 | Design & Collaboration | Figma, UI/UX Design, Design Systems, Prototyping |
 | Specialized Integrations | Voice-to-Text Processing, Real-Time PDF Analysis, Email Automation, Multi-Language Support, Real-Time Collaboration |
 
