@@ -28,7 +28,7 @@
 
 <h3 align="left"><span style="color:#00F7FF;">🚀 About Me</span></h3>
 
-I'm a passionate **Flutter & Full-Stack Developer** and **Blockchain Builder** dedicated to building clean, performant, and user-centric digital experiences. I believe in the power of minimal design and well-crafted code to communicate ideas effectively.
+I'm a passionate developer with a deep interest in building clean, performant, and user-centric digital experiences. I believe in the power of minimal design and well-crafted code to communicate ideas effectively With experience across web platforms, I bring a unique perspective to every project — blending technical rigor with creative sensibility.I focus on writing well-structured, maintainable code that aligns with modern industry standards. By leveraging contemporary development workflows and robust toolings, I efficiently translate ideas into production-ready software while maintaining clean, scalable, and modular architectures
 
 - 🧠 I embrace the philosophy of **vibe coding**—where technical precision meets creative intuition.
 - 🛠️ 1+ years of experience across web platforms.
