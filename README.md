@@ -22,7 +22,10 @@
   <img src="https://skillicons.dev/icons?i=flutter,react,ts,nodejs,firebase,mongodb,github,figma,supabase," />
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
+</div>
+
 <h3 align="left"><span style="color:#00F7FF;">🚀 About Me</span></h3>
 
 I'm a passionate **Flutter & Full-Stack Developer** and **Blockchain Builder** dedicated to building clean, performant, and user-centric digital experiences. I believe in the power of minimal design and well-crafted code to communicate ideas effectively.
@@ -31,7 +34,9 @@ I'm a passionate **Flutter & Full-Stack Developer** and **Blockchain Builder** d
 - 🛠️ 1+ years of experience across web platforms.
 - ✍️ I write about tech at [durgavaraprasad.hashnode.dev](https://durgavaraprasad.hashnode.dev/).
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
+</div>
 
 <h3 align="left"><span style="color:#58A6FF;">📈 Activity Pulse & Contribution Arcade</span></h3>
 
@@ -59,7 +64,9 @@ I'm a passionate **Flutter & Full-Stack Developer** and **Blockchain Builder** d
   />
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
+</div>
 
 <h3 align="left"><span style="color:#7EE787;">💼 Experience</span></h3>
 
@@ -68,7 +75,9 @@ I'm a passionate **Flutter & Full-Stack Developer** and **Blockchain Builder** d
   - Successfully delivered real-world client project for an EDUCATIONAL INSTITUTION focusing on scalability and team collaboration.
 link 🔗 www.aotms.in
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
+</div>
 
 <h3 align="left"><span style="color:#F2CC60;">🎓 Education</span></h3>
 
@@ -77,7 +86,9 @@ link 🔗 www.aotms.in
 - **Bachelor of Science (B.Sc-MSCs)** — *Krishna University* (2021 – 2024)
   - Gowtham Degree College, Vijayawada.
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
+</div>
 
 <h3 align="left"><span style="color:#FF7B72;">🛠️ Technical Arsenal</span></h3>
 
@@ -93,7 +104,9 @@ link 🔗 www.aotms.in
 | Design & Collaboration | Figma, UI/UX Design, Design Systems, Prototyping |
 | Specialized Integrations | Voice-to-Text Processing, Real-Time PDF Analysis, Email Automation, Multi-Language Support, Real-Time Collaboration |
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
+</div>
 
 <h3 align="left"><span style="color:#C678DD;">🚀 Core Expertise</span></h3>
 
@@ -106,7 +119,9 @@ link 🔗 www.aotms.in
 | Product Design | Modern UI systems, interactive experiences |
 | System Architecture | Performance-focused, scalable application design |
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
+</div>
 
 <h3 align="left"><span style="color:#FFA657;">💡 Professional Highlights</span></h3>
 
@@ -119,7 +134,9 @@ link 🔗 www.aotms.in
 | 🚀 Experience | 1+ Years in Web & AI-driven Platforms |
 | 🎯 Development Philosophy | *"Vibe Coding — Technical Precision Meets Creative Intuition"* |
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
+</div>
 
 <h3 align="left"><span style="color:#00D8FF;">📌 Project Domains</span></h3>
 
@@ -132,14 +149,23 @@ link 🔗 www.aotms.in
 | Blockchain | Voting dApps, Decentralized Solutions |
 | SaaS & Portfolio | Premium Landing Pages, Business Platforms |
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
+</div>
 
 <h3 align="left"><span style="color:#79C0FF;">📫 Connect with Me</span></h3>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/durga-vara-prasad-pappuri-1797701b6/)
-- 📝 [Hashnode Blog](https://durgavaraprasad.hashnode.dev/)
-- 📧 [Email](mailto:durgavaraprasad2003@gmail.com)
-- 🕸️ [Portfolio](https://vara-portfolio.vercel.app)
+<div align="center">
+  <a href="https://www.linkedin.com/in/durga-vara-prasad-pappuri-1797701b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:durgavaraprasad2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://vara-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</div>
 
 ---
 
