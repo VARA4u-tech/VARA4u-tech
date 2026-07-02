@@ -44,7 +44,7 @@ I'm a passionate developer with a deep interest in building clean, performant, a
   <img src="https://streak-stats.demolab.com?user=VARA4u-tech&theme=github-dark-blue" />
 </p>
 
-<h3 align="left">👾 Contribution Arcade</h3>
+<h3 align="left">🔥 Contribution Arcade</h3>
 
 <p align="center">
   <img 
@@ -63,17 +63,8 @@ I'm a passionate developer with a deep interest in building clean, performant, a
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VARA4u-tech&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
-</div>
-
-<h3 align="left"><span style="color:#7EE787;">💼 Experience</span></h3>
-
-- **MERN Stack Developer (Freelancing Project)** — *Academy of Tech Masters (AOTMS)*
-  - [Dec 2025 – Jan 2026]
-  - Successfully delivered real-world client project for an EDUCATIONAL INSTITUTION focusing on scalability and team collaboration.
-link 🔗 www.aotms.in
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vara4u-tech&theme=dracula&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f8f8f2&area=true&area_color=000000"/>
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
@@ -92,47 +83,34 @@ link 🔗 www.aotms.in
 
 <h3 align="left"><span style="color:#FF7B72;">🛠️ Technical Arsenal</span></h3>
 
-| Category | Skills & Technologies |
-|---|---|
-| Frontend Development | React, TypeScript, JavaScript, Vite, Tailwind CSS, Zustand, Framer Motion, Shadcn UI |
-| Backend Development | Node.js, PHP, REST APIs, Server Architecture |
-| Databases & Backend Services | MongoDB, Firebase, Supabase, PostgreSQL |
-| Web3 & Blockchain | Aptos, Move Language, Smart Contracts, Decentralized Applications |
-| AI & Machine Learning | Large Language Models, Prompt Engineering, AI Integration, Voice Recognition, Document Intelligence, Predictive Analytics |
-| Cloud & Deployment | Vercel, Firebase Hosting, CI/CD Workflows |
-| Development Tools | Git, GitHub, Postman, VS Code |
-| Design & Collaboration | Figma, UI/UX Design, Design Systems, Prototyping |
-| Specialized Integrations | Voice-to-Text Processing, Real-Time PDF Analysis, Email Automation, Multi-Language Support, Real-Time Collaboration |
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
-</div>
-
-<h3 align="left"><span style="color:#C678DD;">🚀 Core Expertise</span></h3>
-
-| Domain | Experience |
-|---|---|
-| Full Stack Development | Building scalable, production-ready web applications |
-| Saas Services| Cross-platform application development |
-| AI Engineering | Intelligent automation, LLM-powered applications |
-| Web3 Development | Smart contracts, decentralized apps |
-| Product Design | Modern UI systems, interactive experiences |
-| System Architecture | Performance-focused, scalable application design |
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
-</div>
-
-<h3 align="left"><span style="color:#FFA657;">💡 Professional Highlights</span></h3>
-
-| Achievement | Details |
-|---|---|
-| 🏆 Hackathon Achievement | Won **3rd Prize** in **Innovative Andhra Hackathon 2025** (**Data & AI Track**) for building an **LMS Portal**- 🔗https://vidyalaya-nine.vercel.app |
-| 🎓 Education | MCA Student — JNTU Kakinada (2024–2026) |
-| 💼 Professional Role | MERN Stack Developer — Freelance Projects |
-| ✍️ Content Creation | Technical Blogging & Knowledge Sharing |
-| 🚀 Experience | 1+ Years in Web & AI-driven Platforms |
-| 🎯 Development Philosophy | *"Vibe Coding — Technical Precision Meets Creative Intuition"* |
+```json
+{
+  "tech_stack": {
+    "languages": [
+      "C", "C++", "Java", "Python", "JavaScript", "TypeScript", "PHP", "Dart", "Google Apps Script"
+    ],
+    "frontend": [
+      "React.js", "Next.js", "Tailwind CSS", "Shadcn UI", "Framer Motion", "HTML5", "CSS3", "Vite"
+    ],
+    "backend": [
+      "Node.js", "Express.js", "FastAPI", "Flask", "JWT"
+    ],
+    "databases": [
+      "MySQL", "MongoDB", "PostgreSQL", "Redis", "Firebase", "Supabase"
+    ],
+    "cloud_tools_and_devops": [
+      "AWS", "Google Cloud", "Cloudflare", "Vercel", "Netlify",
+      "Git", "GitHub", "npm", "VS Code", "Jupyter Notebook"
+    ],
+    "mobile": [
+      "Flutter"
+    ],
+    "ai_ml_and_cv": [
+      "YOLO", "OpenCV", "Hugging Face"
+    ]
+  }
+}
+```
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
