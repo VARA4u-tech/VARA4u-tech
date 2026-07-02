@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/99SsNZZF/dcc9cea8525b59b91d1a6ed0e27fff59.gif" />
+  <img src="https://i.ibb.co/9kdpWNv8/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif" />
 </p>
 
 <h1 align="center">👋 Hey There, I'm Durga Vara Prasad!</h1>
