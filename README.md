@@ -87,26 +87,32 @@ I'm a passionate developer with a deep interest in building clean, performant, a
 {
   "tech_stack": {
     "languages": [
-      "C", "C++", "Java", "Python", "JavaScript", "TypeScript", "PHP", "Dart", "Google Apps Script"
+      "Java", "Python", "JavaScript", "TypeScript", "PHP", "Dart",
     ],
     "frontend": [
-      "React.js", "Next.js", "Tailwind CSS", "Shadcn UI", "Framer Motion", "HTML5", "CSS3", "Vite"
+      "React", "TypeScript", "JavaScript", "Vite", "Tailwind CSS", "Zustand", "Framer Motion", "Shadcn UI"
     ],
     "backend": [
-      "Node.js", "Express.js", "FastAPI", "Flask", "JWT"
+      "Node.js", "Express.js", "FastAPI", "Flask", "JWT", "PHP", "REST APIs", "Server Architecture"
     ],
     "databases": [
       "MySQL", "MongoDB", "PostgreSQL", "Redis", "Firebase", "Supabase"
     ],
     "cloud_tools_and_devops": [
-      "AWS", "Google Cloud", "Cloudflare", "Vercel", "Netlify",
-      "Git", "GitHub", "npm", "VS Code", "Jupyter Notebook"
+       "Vercel",  "CI/CD Workflows ","Vercel", "Netlify",
+      "Git", "GitHub", "npm", "VS Code",
     ],
-    "mobile": [
-      "Flutter"
+    "AI & Machine Learning": [
+     "Large Language Models", "Prompt Engineering", "AI Integration", "Voice Recognition", "Document Intelligence", "Predictive Analytics"
     ],
-    "ai_ml_and_cv": [
-      "YOLO", "OpenCV", "Hugging Face"
+    "Development Tools": [
+      "Git", "GitHub", "Postman", "VS Code"
+    ],
+    "Flutter": [
+       "Mobile"
+    ],
+    " Specialized Integrations": [
+     "Voice-to-Text Processing", "Real-Time PDF Analysis", "Email Automation", "Multi-Language Support", "Real-Time Collaboration"
     ]
   }
 }
