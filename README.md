@@ -167,8 +167,8 @@ link 🔗 www.aotms.in
   </a>
 </div>
 
----
+
 
 <p align="center">
-  <i>"const passion = Infinity;"</i>
+  <img src="https://i.ibb.co/CpBXKBhw/3829b27df8efdfba7b7dbd7b07d0e68b.gif" />
 </p>
