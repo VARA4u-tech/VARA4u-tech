@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/TD44YG5y/tumblr-owi25v6u-Ao1r4gsiio1-1280-gif-1000-300-in-2024-Pixel-art-design-Pixel-art-background-Pix.gif" />
+  <img src="https://i.ibb.co/99SsNZZF/dcc9cea8525b59b91d1a6ed0e27fff59.gif" />
 </p>
 
 <h1 align="center">👋 Hey There, I'm Durga Vara Prasad!</h1>
