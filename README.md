@@ -154,5 +154,5 @@ I'm a passionate developer with a deep interest in building clean, performant, a
 
 
 <p align="center">
-  <img src="https://i.ibb.co/CpBXKBhw/3829b27df8efdfba7b7dbd7b07d0e68b.gif" />
+  <img src="https://i.ibb.co/6Jg56gYy/b63ce721952731ac9bc8da355fe7e568.gif" />
 </p>
