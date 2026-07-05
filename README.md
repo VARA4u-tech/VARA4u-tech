@@ -137,7 +137,7 @@ I'm a passionate developer with a deep interest in building clean, performant, a
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
 </div>
 
-<h3 align="left"><span style="color:#79C0FF;">📫 Lets Connect</span></h3>
+<h3 align="left"><span style="color:#79C0FF;">📫 Let's Connect</span></h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/durga-vara-prasad-pappuri-1797701b6/">
