@@ -28,8 +28,15 @@
 
 <h3 align="left"><span style="color:#00F7FF;">🚀 About Me</span></h3>
 
-I'm a passionate developer with a deep interest in building clean, performant, and user-centric digital experiences. I believe in the power of minimal design and well-crafted code to communicate ideas effectively With experience across web platforms, I bring a unique perspective to every project — blending technical rigor with creative sensibility.I focus on writing well-structured, maintainable code that aligns with modern industry standards. By leveraging contemporary development workflows and robust toolings, I efficiently translate ideas into production-ready software while maintaining clean, scalable, and modular architectures
-
+A Full Stack Developer (MERN Stack) & Software Engineer. I love turning ideas into working software — from responsive UIs to scalable backends.
+ 
+Over the past year, I've built real-world projects using React.js, Node.js, Express.js, and MongoDB - including a freelance client platform and a full-featured Learning Management System, handling everything from UI/UX to REST API integration and deployment. I also explored Generative AI and Prompt Engineering during an internship, which shaped how I think about AI-driven development.
+ 
+Currently sharpening my skills in Data Structures & Algorithms, Java, Javascript, Spring Boot, TypeScript, and cloud deployment, with growing curiosity around LLMs.
+ 
+My goal: become a versatile full stack engineer who builds thoughtful, user-first products - not just functional code. I thrive in agile, collaborative teams where ideas move fast.
+ 
+Open to connecting with people building in web development, AI, or product engineering - always happy to learn and exchange ideas.
 - 🧠 I embrace the philosophy of **vibe coding**—where technical precision meets creative intuition.
 - 🛠️ 1+ years of experience across web platforms.
 - ✍️ I write about tech at [durgavaraprasad.hashnode.dev](https://durgavaraprasad.hashnode.dev/).
