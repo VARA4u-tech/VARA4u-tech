@@ -163,5 +163,5 @@ Open to connecting with people building in web development, AI, or product engin
 
 
 <p align="center">
-  <img src="https://i.ibb.co/6Jg56gYy/b63ce721952731ac9bc8da355fe7e568.gif" />
+  <img src="https://i.ibb.co/234gqTp9/download-2.jpg" />
 </p>
