@@ -27,18 +27,18 @@
 
 <h3 align="left"><span style="color:#00F7FF;">🚀 About Me</span></h3>
 
-A Full Stack Developer (MERN Stack) & Software Engineer. I love turning ideas into working software — from responsive UIs to scalable backends.
- 
-Over the past year, I've built real-world projects using React.js, Node.js, Express.js, and MongoDB - including a freelance client platform and a full-featured Learning Management System, handling everything from UI/UX to REST API integration and deployment. I also explored Generative AI and Prompt Engineering during an internship, which shaped how I think about AI-driven development.
- 
-Currently sharpening my skills in Data Structures & Algorithms, Java, Javascript, Spring Boot, TypeScript, and cloud deployment, with growing curiosity around LLMs.
- 
-My goal: become a versatile full stack engineer who builds thoughtful, user-first products - not just functional code. I thrive in agile, collaborative teams where ideas move fast.
- 
-Open to connecting with people building in web development, AI, or product engineering - always happy to learn and exchange ideas.
-- 🧠 I embrace the philosophy of **vibe coding**—where technical precision meets creative intuition.
-- 🛠️ 1+ years of experience across web platforms.
-- ✍️ I write about tech at [durgavaraprasad.hashnode.dev](https://durgavaraprasad.hashnode.dev/).
+**Full Stack Developer (MERN) & Software Engineer** turning random ideas into working software — and occasionally turning bugs into “features.” 😌
+
+💻 I build with **React, Node.js, Express, MongoDB, Java, Spring Boot & TypeScript**, from pixel-perfect UIs to scalable backends.
+
+🤖 Exploring **Generative AI, LLMs & Prompt Engineering** — because apparently talking to computers wasn't weird enough already.
+
+🧠 Big fan of **Vibe Coding** — where technical precision meets creative chaos.
+
+🎯 Currently leveling up **DSA, Cloud & AI**, with one goal: build products people actually enjoy using.
+
+🤝 Always open to **building, learning, collaborating, and debugging things that “worked perfectly yesterday.”** 
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
@@ -125,21 +125,6 @@ Open to connecting with people building in web development, AI, or product engin
   }
 }
 ```
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
-</div>
-
-<h3 align="left"><span style="color:#00D8FF;">📌 Project Domains</span></h3>
-
-| Industry / Domain | Solutions Built |
-|---|---|
-| Education Tech | LMS Platforms, Academic Intelligence Systems |
-| Artificial Intelligence | Voice AI, Email AI, Document Intelligence |
-| E-Commerce | Modern Shopping Platforms |
-| Productivity | Meeting Summarizers, Task Automation |
-| Blockchain | Voting dApps, Decentralized Solutions |
-| SaaS & Portfolio | Premium Landing Pages, Business Platforms |
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
