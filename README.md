@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/9kdpWNv8/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif" />
-</p>
-
 <h1 align="center">👋 Hey There, I'm Durga Vara Prasad!</h1>
 
 
@@ -73,18 +69,6 @@
 </p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vara4u-tech&theme=dracula&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f8f8f2&area=true&area_color=000000"/>
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
-</div>
-
-<h3 align="left"><span style="color:#F2CC60;">🎓 Education</span></h3>
-
-- **Master of Computer Applications (MCA)** — *JNTU Kakinada* (2024 – 2026 | Pursuing)
-  - DVR & Dr. HS MIC College of Technology, Kanchikacherla.
-- **Bachelor of Science (B.Sc-MSCs)** — *Krishna University* (2021 – 2024)
-  - Gowtham Degree College, Vijayawada.
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
 </div>
@@ -147,5 +131,5 @@
 
 
 <p align="center">
-  <img src="https://i.ibb.co/234gqTp9/download-2.jpg" />
+  <img src="https://i.ibb.co/9kdpWNv8/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif" />
 </p>
