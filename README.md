@@ -23,7 +23,7 @@
 
 <h3 align="left"><span style="color:#00F7FF;">🚀 About Me</span></h3>
 
-**Full Stack Developer (MERN) & Software Engineer** turning random ideas into working software — and occasionally turning bugs into “features.” 😌
+**Full Stack Developer (MERN) & Software Engineer** turning random ideas into working software — and occasionally turning bugs into "features." 😌
 
 💻 I build with **React, Node.js, Express, MongoDB, Java, Spring Boot & TypeScript**, from pixel-perfect UIs to scalable backends.
 
@@ -33,7 +33,7 @@
 
 🎯 Currently leveling up **DSA, Cloud & AI**, with one goal: build products people actually enjoy using.
 
-🤝 Always open to **building, learning, collaborating, and debugging things that “worked perfectly yesterday.”** 
+🤝 Always open to **building, learning, collaborating, and debugging things that "worked perfectly yesterday."** 
 
 
 <div align="center">
@@ -66,9 +66,11 @@
     alt="Top Languages"
   />
 </p>
-</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vara4u-tech&theme=dracula&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f8f8f2&area=true&area_color=000000"/>
 </p>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
 </div>
@@ -79,7 +81,7 @@
 {
   "tech_stack": {
     "languages": [
-      "Java", "Python", "JavaScript", "TypeScript", "PHP", "Dart",
+      "Java", "Python", "JavaScript", "TypeScript", "PHP", "Dart"
     ],
     "frontend": [
       "React", "TypeScript", "JavaScript", "Vite", "Tailwind CSS", "Zustand", "Framer Motion", "Shadcn UI"
@@ -91,20 +93,19 @@
       "MySQL", "MongoDB", "PostgreSQL", "Redis", "Firebase", "Supabase"
     ],
     "cloud_tools_and_devops": [
-       "Vercel",  "CI/CD Workflows ","Vercel", "Netlify",
-      "Git", "GitHub", "npm", "VS Code",
+      "Vercel", "CI/CD Workflows", "Netlify", "Git", "GitHub", "npm", "VS Code"
     ],
     "AI & Machine Learning": [
-     "Large Language Models", "Prompt Engineering", "AI Integration", "Voice Recognition", "Document Intelligence", "Predictive Analytics"
+      "Large Language Models", "Prompt Engineering", "AI Integration", "Voice Recognition", "Document Intelligence", "Predictive Analytics"
     ],
     "Development Tools": [
       "Git", "GitHub", "Postman", "VS Code"
     ],
     "Flutter": [
-       "Mobile"
+      "Mobile"
     ],
-    " Specialized Integrations": [
-     "Voice-to-Text Processing", "Real-Time PDF Analysis", "Email Automation", "Multi-Language Support", "Real-Time Collaboration"
+    "Specialized Integrations": [
+      "Voice-to-Text Processing", "Real-Time PDF Analysis", "Email Automation", "Multi-Language Support", "Real-Time Collaboration"
     ]
   }
 }
