@@ -105,7 +105,7 @@
       "Mobile"
     ],
     "Specialized Integrations": [
-      "Voice-to-Text Processing", "Real-Time PDF Analysis", "Email Automation", "Multi-Language Support", "Real-Time Collaboration"
+      "Voice-to-Text Processing", "Real-Time PDF Analysis", "Email Automation", "Multi-Language Support","Real-Time Collaboration"
     ]
   }
 }
