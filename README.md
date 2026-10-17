@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey There, I'm Durga Vara Prasad Pappuri!</h1>
+<h1 align="center">👋 Hey There, I'm Durga Vara Prasad!</h1>
 
 
 <p align="center">
