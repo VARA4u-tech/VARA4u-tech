@@ -21,7 +21,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
 </div>
 
-<h3 align="left"><span style="color:#00F7FF;">🚀 About Me</span></h3>
+<h3 align="left"><span style="color:#00F7FF;">🌟 About Me</span></h3>
 
 **Full Stack Developer (MERN) & Software Engineer** turning random ideas into working software — and occasionally turning bugs into "features." 😌
 
