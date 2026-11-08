@@ -67,8 +67,13 @@
   />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vara4u-tech&theme=dracula&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f8f8f2&area=true&area_color=000000"/>
+  <img
+    src="https://raw.githubusercontent.com/VARA4u-tech/VARA4u-tech/output/activity-graph.svg"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 <div align="center">
