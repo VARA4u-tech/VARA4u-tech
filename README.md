@@ -48,12 +48,15 @@
 
 <h3 align="left">🔥 Contribution Arcade</h3>
 
+
 <p align="center">
-  <img 
-    src="https://github.com/VARA4u-tech/VARA4u-tech/blob/output/pacman-contribution-graph-dark.svg?raw=true"
+  <img
+    src="https://raw.githubusercontent.com/VARA4u-tech/VARA4u-tech/output/pacman-contribution-graph-dark.svg"
     alt="Pacman Contribution Graph"
+    width="100%"
   />
 </p>
+
 
 <p align="center">
   <i>Leveling up one commit at a time 🚀</i>
