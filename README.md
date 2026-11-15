@@ -141,30 +141,17 @@ availability: "Open to interesting ideas and collaborations."
  
 <a href="https://www.linkedin.com/in/durga-vara-prasad-pappuri-1797701b6/" target="_blank">
   <img
-    src="https://i.ibb.co/Y7P1BMG8/Animated-Linked-In-Tile-Click-Sequence.gif"
+    src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
     width="150"
     alt="LinkedIn"
   />
-  <a href=""mailto:durgavaraprasadpappuri13@gmail.com"" target="_blank">
-  <img
-    src="https://i.ibb.co/Y7P1BMG8/Animated-Linked-In-Tile-Click-Sequence.gif"
-    width="150"
-    alt="E-mail"
-  />
-</a>
-  <a href=>
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://vara-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-  
 <a href="https://discord.com/users/1421343398501290005" target="_blank">
   <img
     src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"
     width="50"
     alt="Discord"
   />
+  
 </a>
 </div>
 <p align="center">
