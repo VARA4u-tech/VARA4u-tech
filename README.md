@@ -155,7 +155,7 @@ availability: "Open to interesting ideas and collaborations."
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
   
-<a href="vara4u._21491" target="_blank">
+<a href="https://discord.com/users/1421343398501290005" target="_blank">
   <img
     src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"
     width="50"
