@@ -82,13 +82,13 @@ availability: "Open to interesting ideas and collaborations."
     </td>
   </tr>
 </table>
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://raw.githubusercontent.com/VARA4u-tech/VARA4u-tech/output/pacman-contribution-graph-dark.svg"
     alt="Pacman Contribution Graph"
     width="100%"
   />
-</p>
+</p> -->
 <p align="center">
   <i>Leveling up one commit at a time 🚀</i>
 </p>
