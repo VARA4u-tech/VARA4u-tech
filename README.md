@@ -142,7 +142,7 @@ availability: "Open to interesting ideas and collaborations."
 <a href="https://www.linkedin.com/in/durga-vara-prasad-pappuri-1797701b6/" target="_blank">
   <img
     src="https://i.ibb.co/Y7P1BMG8/Animated-Linked-In-Tile-Click-Sequence.gif"
-    width="50"
+    width="150"
     alt="LinkedIn"
   />
 </a>
