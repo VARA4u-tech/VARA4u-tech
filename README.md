@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="https://i.ibb.co/MkYZgQ9P/download.gif" />
+</p>
 <h1 align="center">👋 Hey There, I'm Durga Vara Prasad!</h1>
 
 
@@ -146,7 +149,4 @@ availability: "Open to interesting ideas and collaborations."
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
-<p align="center">
-  <img src="https://i.ibb.co/MkYZgQ9P/download.gif" />
-</p>
 
