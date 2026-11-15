@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.ibb.co/MkYZgQ9P/download.gif" />
-</p>
+
 <h1 align="center">👋 Hey There, I'm Durga Vara Prasad!</h1>
 
 
@@ -162,6 +160,8 @@ availability: "Open to interesting ideas and collaborations."
     alt="Discord"
   />
 </a>
-
 </div>
+<p align="center">
+  <img src="https://i.ibb.co/MkYZgQ9P/download.gif" />
+</p>
 
