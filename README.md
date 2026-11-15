@@ -2,7 +2,12 @@
 <p align="center">
   <img src="https://i.ibb.co/MkYZgQ9P/download.gif" />
 </p>
-<h1 align="center">👋 Hey There, I'm Durga Vara Prasad!</h1>
+<h1 align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8"
+       width="40"
+       alt="Waving Hand"/>
+  Hey There, I'm Durga Vara Prasad!
+</h1>
 
 
 <p align="center">
