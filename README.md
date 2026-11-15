@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,ts,nodejs,firebase,mongodb,github,figma,supabase," />
+  <img src="https://skillicons.dev/icons?i=flutter,react,ts,nodejs,firebase,mongodb,github,figma,java,supabase,vercel,docker" />
 </p>
 
 <div align="center">
