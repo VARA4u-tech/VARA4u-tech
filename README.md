@@ -23,18 +23,30 @@
 
 <h3 align="left"><span style="color:#00F7FF;">🌟 About Me</span></h3>
 
-**Full Stack Developer (MERN) & Software Engineer** turning random ideas into working software — and occasionally turning bugs into "features." 😌
+### ⚡ SYSTEM PROFILE — DVP
 
-💻 I build with **React, Node.js, Express, MongoDB, Java, Spring Boot & TypeScript**, from pixel-perfect UIs to scalable backends.
+```yaml
+identity:
+  name: "Durga Vara Prasad"
+  role: "Full Stack Developer & AI Engineer"
+  mindset: "Think. Build. Break. Improve. Repeat."
 
-🤖 Exploring **Generative AI, LLMs & Prompt Engineering** — because apparently talking to computers wasn't weird enough already.
+interests:
+  - Building products from scratch
+  - Experimenting with AI and LLMs
+  - Exploring new technologies
+  - Turning crazy ideas into real applications
 
-🧠 Big fan of **Vibe Coding** — where technical precision meets creative chaos.
+current_status:
+  learning: ["Java", "Spring Boot", "DSA", "Cloud"]
+  exploring: ["Generative AI", "Agentic AI"]
+  philosophy: "Clean code. Creative thinking. No limits."
 
-🎯 Currently leveling up **DSA, Cloud & AI**, with one goal: build products people actually enjoy using.
+fun_fact: "I sometimes fix bugs that I accidentally introduced."
+availability: "Open to interesting ideas and collaborations."
+```
 
-🤝 Always open to **building, learning, collaborating, and debugging things that "worked perfectly yesterday."** 
-
+**MISSION:** Build things that solve real problems, create meaningful experiences, and occasionally make developers wonder, "How did this even work?" 😌
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
