@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+  <img src="https://i.ibb.co/MkYZgQ9P/download.gif" />
 </p>
 <h1 align="center">👋 Hey There, I'm Durga Vara Prasad!</h1>
 
