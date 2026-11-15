@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.ibb.co/9kdpWNv8/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif" />
+</p>
 <h1 align="center">👋 Hey There, I'm Durga Vara Prasad!</h1>
 
 
@@ -46,7 +49,7 @@ fun_fact: "I sometimes fix bugs that I accidentally introduced."
 availability: "Open to interesting ideas and collaborations."
 ```
 
-**MISSION:** Build things that solve real problems, create meaningful experiences, and occasionally make developers wonder, "How did this even work?" 😌
+**MISSION:** Build things that solve real problems, create meaningful experiences, and occasionally make developers wonder, "How did this even work?" 
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
@@ -136,7 +139,6 @@ availability: "Open to interesting ideas and collaborations."
 </div>
 
 <h3 align="left"><span style="color:#79C0FF;">📫 Let's Connect</span></h3>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/durga-vara-prasad-pappuri-1797701b6/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -149,8 +151,3 @@ availability: "Open to interesting ideas and collaborations."
   </a>
 </div>
 
-
-
-<p align="center">
-  <img src="https://i.ibb.co/9kdpWNv8/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif" />
-</p>
