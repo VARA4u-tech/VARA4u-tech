@@ -142,14 +142,20 @@ availability: "Open to interesting ideas and collaborations."
 <a href="https://www.linkedin.com/in/durga-vara-prasad-pappuri-1797701b6/" target="_blank">
   <img
     src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
-    width="150"
+    width="100"
     alt="LinkedIn"
   />
 <a href="https://discord.com/users/1421343398501290005" target="_blank">
   <img
     src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"
-    width="50"
+    width="100"
     alt="Discord"
+  />
+  <a href="https://x.com/PappuriVara" target="_blank">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif"
+    width="100"
+    alt="X"
   />
   
 </a>
