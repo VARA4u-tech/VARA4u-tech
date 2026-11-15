@@ -1,9 +1,10 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/MkYZgQ9P/download.gif" />
+  <img src="https://i.ibb.co/MkYZgQ9P/download.gif"
+     width ="800"/>
 </p>
 <h1 align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/761f4c99-eda3-4c9a-a4ec-2b6311e2433a"
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8"
        width="40"
        alt="Waving Hand"/>
   Hey There, I'm Durga Vara Prasad!
