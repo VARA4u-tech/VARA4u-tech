@@ -145,8 +145,14 @@ availability: "Open to interesting ideas and collaborations."
     width="150"
     alt="LinkedIn"
   />
+  <a href=""mailto:durgavaraprasadpappuri13@gmail.com"" target="_blank">
+  <img
+    src="https://i.ibb.co/Y7P1BMG8/Animated-Linked-In-Tile-Click-Sequence.gif"
+    width="150"
+    alt="E-mail"
+  />
 </a>
-  <a href="mailto:durgavaraprasadpappuri13@gmail.com">
+  <a href=>
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://vara-portfolio.vercel.app">
