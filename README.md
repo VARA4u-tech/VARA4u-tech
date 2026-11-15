@@ -140,14 +140,28 @@ availability: "Open to interesting ideas and collaborations."
 
 <h3 align="left"><span style="color:#79C0FF;">📫 Let's Connect</span></h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/durga-vara-prasad-pappuri-1797701b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+ 
+<a href="https://www.linkedin.com/in/durga-vara-prasad-pappuri-1797701b6/" target="_blank">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
+    width="50"
+    alt="LinkedIn"
+  />
+</a>
   <a href="mailto:durgavaraprasadpappuri13@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://vara-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
+  
+<a href="vara4u._21491" target="_blank">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"
+    width="50"
+    alt="Discord"
+  />
+</a>
+
 </div>
 
