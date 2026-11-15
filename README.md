@@ -12,7 +12,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI%2FML+Builder;Hackathon+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI%2FML+Builder;Hackathon+Enthusiast;Tring+To+Learn+New+Things;
+    I+Have+Done+Not'in+Productive+All+Day" 
+    width ="500"/>
 </p>
 
 <p align="center">
