@@ -21,9 +21,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
 </div>
-
-<h3 align="left"><span style="color:#00F7FF;">🌟 About Me</span></h3>
-
 ### ⚡ SYSTEM PROFILE — DVP
 
 ```yaml
@@ -55,13 +52,25 @@ availability: "Open to interesting ideas and collaborations."
 
 <h3 align="left"><span style="color:#58A6FF;">📈 Activity Pulse & Contribution Arcade</span></h3>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VARA4u-tech&theme=github-dark-blue" />
-</p>
-
-<h3 align="left">🔥 Contribution Arcade</h3>
-
-
+<!-- GitHub Streak Stats + Top Languages -->
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://streak-stats.demolab.com?user=VARA4u-tech&theme=github-dark-blue"
+        alt="GitHub Streak Stats"
+        width="100%"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=VARA4u-tech&layout=compact&theme=tokyonight&hide_border=true"
+        alt="Top Languages"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/VARA4u-tech/VARA4u-tech/output/pacman-contribution-graph-dark.svg"
@@ -69,20 +78,9 @@ availability: "Open to interesting ideas and collaborations."
     width="100%"
   />
 </p>
-
-
 <p align="center">
   <i>Leveling up one commit at a time 🚀</i>
 </p>
-
-<!-- Top Languages Card -->
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=VARA4u-tech&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
 
 <p align="center">
   <img
