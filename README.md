@@ -11,11 +11,12 @@
 </h1>
 
 
-<--! <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI%2FML+Builder;Hackathon+Enthusiast;Tring+To+Learn+New+Things;
-    I+Have+Done+Not'in+Productive+All+Day" 
-    width ="500"/>
-</p> -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Builder;Hackathon+Enthusiast;Always+Trying+To+Learn+New+Things;I+Did+Nothing+Productive+All+Day"
+    alt="Typing SVG"
+  />
+</p>
 
 <p align="center">
   <!-- Followers -->
