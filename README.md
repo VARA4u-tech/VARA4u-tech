@@ -111,33 +111,14 @@ availability: "Open to interesting ideas and collaborations."
 ```json
 {
   "tech_stack": {
-    "languages": [
-      "Java", "Python", "JavaScript", "TypeScript", "PHP", "Dart"
-    ],
-    "frontend": [
-      "React", "TypeScript", "JavaScript", "Vite", "Tailwind CSS", "Zustand", "Framer Motion", "Shadcn UI"
-    ],
-    "backend": [
-      "Node.js", "Express.js", "FastAPI", "Flask", "JWT", "PHP", "REST APIs", "Server Architecture"
-    ],
-    "databases": [
-      "MySQL", "MongoDB", "PostgreSQL", "Redis", "Firebase", "Supabase"
-    ],
-    "cloud_tools_and_devops": [
-      "Vercel", "CI/CD Workflows", "Netlify", "Git", "GitHub", "npm", "VS Code"
-    ],
-    "AI & Machine Learning": [
-      "Large Language Models", "Prompt Engineering", "AI Integration", "Voice Recognition", "Document Intelligence", "Predictive Analytics"
-    ],
-    "Development Tools": [
-      "Git", "GitHub", "Postman", "VS Code"
-    ],
-    "Flutter": [
-      "Mobile"
-    ],
-    "Specialized Integrations": [
-      "Voice-to-Text Processing", "Real-Time PDF Analysis", "Email Automation", "Multi-Language Support","Real-Time Collaboration"
-    ]
+    "languages": ["Java", "Python", "JavaScript", "TypeScript", "PHP", "Dart"],
+    "frontend": ["React", "Vite", "Tailwind CSS", "Zustand", "Framer Motion", "Shadcn UI"],
+    "backend": ["Node.js", "Express.js", "FastAPI", "Flask", "Spring Boot", "REST APIs", "JWT"],
+    "databases": ["MySQL", "MongoDB", "PostgreSQL", "Redis", "Firebase", "Supabase"],
+    "cloud_devops_tools": ["Vercel", "Netlify", "CI/CD", "Git", "GitHub", "npm", "VS Code", "Postman"],
+    "ai_ml": ["LLMs", "Prompt Engineering", "AI Integration", "Voice Recognition", "Document Intelligence", "Predictive Analytics"],
+    "mobile": ["Flutter"],
+    "integrations": ["Voice-to-Text", "PDF Analysis", "Email Automation", "Multilingual Support", "Real-Time Collaboration"]
   }
 }
 ```
